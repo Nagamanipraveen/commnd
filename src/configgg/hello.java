@@ -4,6 +4,6 @@ public class hello {
 
 public void samp() {
 	
-	System.out.println("samp method");
+	System.out.println("samp method     ");
 }
 }
